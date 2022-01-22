@@ -18,12 +18,11 @@ I enjoy working on projects that reflect my hobbies. Working with the connection
 <code><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="28"></code>
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+# My Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cayubweeums&count_private=true&show_icons=true&hide_border=true" height='120'/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=cayubweeums&layout=compact&hide_border=true' alt='github' height='120'/>
-</details>
+[![Cayubweeums's github stats](https://github-readme-stats.vercel.app/api?username=cayubweeums&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/cayubweeums)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cayubweeums&theme=dark&count_private=true&theme=radical)](https://github.com/cayubweeums)
 
 #### Contact me @
 
