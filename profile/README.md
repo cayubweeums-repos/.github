@@ -11,6 +11,7 @@ I enjoy working on projects that reflect my hobbies. Working with the connection
 ### Languages and Tools:
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="30"></code>
+<code><img src="https://prev.rust-lang.org/logos/rust-logo-512x512.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30"></code>
