@@ -23,9 +23,9 @@ I enjoy working on projects that reflect my hobbies. Working with the connection
 
 [![Cayubweeums's github stats](https://github-readme-stats.vercel.app/api?username=cayubweeums&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/cayubweeums)
 
-[![Cayubweeum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luantafarel&layout=compact&langs_count=7&theme=dracula)
+[![Cayubweeum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luantafarel&layout=compact&langs_count=7&theme=radical&hide)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cayubweeums&theme=dark&count_private=true&theme=radical)](https://github.com/cayubweeums)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cayubweeums&theme=dark&count_private=true&theme=radical&hide)](https://github.com/cayubweeums)
 
 #### Contact me @
 
