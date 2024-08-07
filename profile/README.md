@@ -1,6 +1,6 @@
 # Hello World 👋🌎
 
-Currently, full-time Sr. Security Analyst .<br>
+Currently, full-time Principal Security Analyst .<br>
 I enjoy working on projects that reflect my hobbies. Working with the connections between hardware and software is my favorite area to dwell in.
 
 [Hendrix College](https://www.hendrix.edu) Graduate with Bachelors in Computer Science and a [Blue Team Level One](https://securityblue.team/why-btl1) Certification.
