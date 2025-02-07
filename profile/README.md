@@ -3,7 +3,7 @@
 Currently, full-time Principal Security Analyst .<br>
 I enjoy working on projects that reflect my hobbies. Working with the connections between hardware and software is my favorite area to dwell in.
 
-[Hendrix College](https://www.hendrix.edu) Graduate with Bachelors in Computer Science and a [Blue Team Level One](https://securityblue.team/why-btl1) Certification.
+[Hendrix College](https://www.hendrix.edu) Student Athlete Graduate with Bachelors in Computer Science and a [Blue Team Level One](https://securityblue.team/why-btl1) Certification.
 
 <code><img src="https://visitor-badge.glitch.me/badge?page_id=cayubweums&style=flat-square"/></code>
 [![GitHub followers](https://img.shields.io/github/followers/cayubweeums.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/cayubweeums?tab=followers)
